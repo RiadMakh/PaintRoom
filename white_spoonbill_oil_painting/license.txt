@@ -1,0 +1,11 @@
+Model Information:
+* title:	White Spoonbill Oil Painting
+* source:	https://sketchfab.com/3d-models/white-spoonbill-oil-painting-5b45f990fd494ca0a6721fc07e8bb0c3
+* author:	thmsvdberg (https://sketchfab.com/thmsvdberg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "White Spoonbill Oil Painting" (https://sketchfab.com/3d-models/white-spoonbill-oil-painting-5b45f990fd494ca0a6721fc07e8bb0c3) by thmsvdberg (https://sketchfab.com/thmsvdberg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
