@@ -1,0 +1,11 @@
+Model Information:
+* title:	Digital Painting
+* source:	https://sketchfab.com/3d-models/digital-painting-bc1f9be152c145d59770a12683587bb4
+* author:	daxterpiece (https://sketchfab.com/daxterpiece)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Digital Painting" (https://sketchfab.com/3d-models/digital-painting-bc1f9be152c145d59770a12683587bb4) by daxterpiece (https://sketchfab.com/daxterpiece) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
